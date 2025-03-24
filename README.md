@@ -4,7 +4,7 @@
 
 🌱 Currently working on an automated greenhouse (sensors, control systems, firmware logic) for my senior design project.
 
-💻 Comfortable with C/C++, low-level debugging, and microcontroller programming.
+💻 Comfortable with C/C++, low-level debugging, and microcontroller programming and more!
 
 📈 Always looking to grow and expand my knowledge.
 
